@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Moviment.cpp
+c:\users\pol garcia\desktop\pol\uni\mp\projectedemp\bombermancasifinal\damas\moviment.cpp(91): warning C4554: '&': compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+  Damas.vcxproj -> C:\Users\Pol Garcia\Desktop\Pol\Uni\MP\ProjecteDeMP\BombermanCasiFinal\\Program\Damas.exe
+  Damas.vcxproj -> C:\Users\Pol Garcia\Desktop\Pol\Uni\MP\ProjecteDeMP\BombermanCasiFinal\\Program\Damas.pdb (Full PDB)
